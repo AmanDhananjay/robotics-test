@@ -4,7 +4,9 @@ import React,{useEffect} from 'react';
 const Home = () => {
 
   return (
-    <div>Home</div>
+    <div>Home test of connection
+      
+    </div>
   )
 }
 
